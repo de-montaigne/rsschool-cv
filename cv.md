@@ -26,7 +26,7 @@ VS Code,
 **Code example:**
 ```
 function multiply(a, b){
-  a * b
+  return a * b
 }
 ```
 ---
